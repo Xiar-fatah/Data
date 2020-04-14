@@ -1,5 +1,5 @@
 # Technical Indicators
-The technical indicators in the .csv files FORD and IBM can be found in the table:
+The technical indicators in the .csv files for FORD and IBM can be found in the table:
 | Variable        | Name           | 
 | ------------- |:-------------:|
 | x_1     | Open | 
